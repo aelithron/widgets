@@ -1,3 +1,4 @@
+**⚠️ This project is not completed yet, and will have bugs! DO NOT use this in production.**
 # Widgets ![IMG](https://hackatime-badge.hackclub.com/U08RJ1PEM7X/widgets)
 An app for creating dynamic widgets for your websites that look beautiful <3 \
 Made for Hack Club [Flavortown](https://flavortown.hackclub.com)! \
